@@ -33,7 +33,7 @@ public class TestClass {
 	}
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
+		System.out.println("Printing Series of random NO:");
 		for(int i=0;i<10;i++){
 		System.out.println("Random String is: "+TestClass.uniqueStringForPasswordReset(13));
 		}
